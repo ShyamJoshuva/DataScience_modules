@@ -1,2 +1,2 @@
 # DataScience_modules
-This repository contains the basic modules used for data science.
+This repository contains data science modules and its basics.
